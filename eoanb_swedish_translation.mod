@@ -4,4 +4,4 @@ tags={
 }
 name="EoaNB Swedish Version"
 supported_version="1.16*"
-path="mod/EoanB_Hungarian_Translation/EoaNB-Hungarian-Translation"
+path="mod/EoaNB_Swedish_Translation/EoaNB-Swedish-Translations"
